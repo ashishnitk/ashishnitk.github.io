@@ -48,7 +48,7 @@ I build and ship AI capabilities for **Microsoft 365 Copilot** as part of [Team 
 
 ## Experience
 
-### 🏢 Microsoft &nbsp;–&nbsp; 6 yrs 11 mos
+### <img src="assets/logos/microsoft.svg" alt="Microsoft" width="24" /> Microsoft &nbsp;–&nbsp; 6 yrs 11 mos
 
 ---
 
@@ -88,7 +88,7 @@ Microsoft Digital / Access Team
 
 ---
 
-### 🏢 Scientific Games &nbsp;–&nbsp; 2 yrs 6 mos
+### <img src="assets/logos/scientific-games.svg" alt="Scientific Games" width="24" /> Scientific Games &nbsp;–&nbsp; 2 yrs 6 mos
 
 #### Senior Software Engineer I | NLP &nbsp;·&nbsp; `Feb 2018 – Oct 2018`
 #### Software Engineer &nbsp;·&nbsp; `May 2016 – Jan 2018`
@@ -104,7 +104,7 @@ Bengaluru, India
 
 ---
 
-### 🏢 Hexagon AB &nbsp;–&nbsp; 2 yrs 7 mos
+### <img src="https://logo.clearbit.com/hexagon.com" alt="Hexagon AB" width="24" /> Hexagon AB &nbsp;–&nbsp; 2 yrs 7 mos
 
 #### Senior Software Analyst &nbsp;·&nbsp; `Oct 2015 – Apr 2016`
 #### Software Analyst &nbsp;·&nbsp; `Oct 2013 – Sep 2015`
@@ -118,7 +118,7 @@ Hyderabad, India
 
 ---
 
-### 🏢 CSIR – National Aerospace Laboratories (NAL)
+### <img src="assets/logos/nal.svg" alt="CSIR NAL" width="24" /> CSIR – National Aerospace Laboratories (NAL)
 
 #### Research Intern &nbsp;·&nbsp; `Dec 2012 – Jul 2013` &nbsp;·&nbsp; Bengaluru, India
 
