@@ -1,143 +1,173 @@
-# Ashish Prasad
+<h1 align="center">Ashish Prasad</h1>
 
-Engineering Manager (AI/ML) at Microsoft Turing  
-Greater Bengaluru Area
+<p align="center">
+	<strong>Engineering Manager, AI/ML &nbsp;·&nbsp; Microsoft Turing &nbsp;·&nbsp; Greater Bengaluru, India</strong>
+</p>
 
-## Contact
+<p align="center">
+	<a href="mailto:ashishprasad@outlook.com"><img src="https://img.shields.io/badge/Email-ashishprasad%40outlook.com-blue?style=flat-square&logo=microsoft-outlook" /></a>
+	&nbsp;
+	<a href="https://www.linkedin.com/in/ashishnitk"><img src="https://img.shields.io/badge/LinkedIn-ashishnitk-0A66C2?style=flat-square&logo=linkedin" /></a>
+	&nbsp;
+	<img src="https://img.shields.io/badge/Phone-%2B91%209985522167-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+</p>
 
-- Mobile: +91 9985522167
-- Email: [ashishprasad@outlook.com](mailto:ashishprasad@outlook.com)
-- LinkedIn: [linkedin.com/in/ashishnitk](https://www.linkedin.com/in/ashishnitk)
+---
 
-## Summary
+## About Me
 
-I am an AI/ML engineer on Team Turing, building and integrating AI capabilities for Microsoft 365 Copilot. My work focuses on bringing advanced machine learning systems into large-scale enterprise products across backend engineering, AI reasoning, and retrieval quality.
+I build and ship AI capabilities for **Microsoft 365 Copilot** as part of [Team Turing](https://www.microsoft.com/en-us/research/project/project-turing/) — working at the intersection of backend engineering, AI reasoning, and large-scale retrieval to make Copilot faster, smarter, and more reliable for millions of enterprise users.
 
-I have contributed to GPT-5, GPT-5.2, GPT-5.3 Codex, and Claude integrations in Microsoft 365 Copilot in collaboration with 30+ cross-functional teammates across engineering, research, and product.
+> **12+ years** of engineering experience &nbsp;·&nbsp; **7 years** at Microsoft &nbsp;·&nbsp; Cross-functional teams of **30+**
 
-Key contributions include:
+---
 
-- Model switching support (GPT-4 and GPT-5)
-- Chain-of-thought reasoning enablement
-- Retrieval quality improvements via ChatFTR LTR
-- Escape Hatch routing for lower-latency, faster-model responses
-- Building enterprise-ready, scalable, and compliant AI features
+## Key Contributions at Microsoft
 
-I also contributed to the Analyst Agent in Microsoft 365 Copilot, a first-party AI data scientist agent built on OpenAI o3-mini that combines reasoning with live Python execution to generate transparent and actionable insights.
+| Feature | What it does | Outcome |
+|---|---|---|
+| **GPT-5 / 5.2 / 5.3 Codex / Claude Integration** | Integrated next-gen models into M365 Copilot | Enterprise-grade AI at scale |
+| **Model Switcher** | Toggle between GPT-4 and GPT-5 | Flexibility and resilience for users |
+| **Chain-of-Thought Reasoning** | Multi-step reasoning for complex queries | Improved accuracy and interpretability |
+| **ChatFTR LTR** | Learning-to-Rank retrieval improvement | Stronger contextual grounding |
+| **Escape Hatch** | Route requests to faster models on demand | Reduced latency, better responsiveness |
+| **Analyst Agent** | AI data scientist on o3-mini + live Python execution | Raw data → actionable insights in minutes |
 
-Team reference: [Microsoft Project Turing](https://www.microsoft.com/en-us/research/project/project-turing/)
+---
 
-## Top Skills
+## Tech Stack
 
-- Engineering Management
-- Software Development
-- Artificial Intelligence (AI)
-- Machine Learning
-- Full-Stack Development
-- C#/.NET
-- TypeScript
-- SQL
-- Azure Machine Learning
+![C#](https://img.shields.io/badge/C%23-.NET-512BD4?style=flat-square&logo=dotnet)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--5%20%7C%20o3-412991?style=flat-square&logo=openai&logoColor=white)
+
+---
 
 ## Experience
 
-### Microsoft (6 years 11 months)
+### 🏢 Microsoft &nbsp;–&nbsp; 6 yrs 11 mos
 
-#### Senior Software Engineer Manager (AI/ML)  
-Sep 2025 - Present | Bengaluru, India
+---
 
-- Contributed to GPT-5/5.2/5.3 Codex/Claude integration in Microsoft 365 Copilot
-- Helped design and implement model switching between GPT-4 and GPT-5
-- Worked on chain-of-thought support for complex queries
-- Supported retrieval improvements with ChatFTR LTR
-- Helped build Escape Hatch low-latency routing mechanisms
-- Partnered with 30+ teammates across engineering, research, and product
+#### Senior Software Engineer Manager (AI/ML)
+`Sep 2025 – Present` &nbsp;·&nbsp; Bengaluru, India
 
-#### Senior Software Engineer (AI/ML)  
-Sep 2023 - Aug 2025 | Bengaluru, India
+- Led delivery of GPT-5, 5.2, 5.3 Codex, and Claude integrations for M365 Copilot with a 30+ member cross-functional team
+- Designed model-switching capability to toggle between GPT-4 and GPT-5 seamlessly
+- Shipped Chain-of-Thought reasoning support, improving accuracy on complex queries
+- Drove retrieval quality uplift through **ChatFTR LTR** (Learning-to-Rank)
+- Built **Escape Hatch** — a low-latency routing mechanism for faster model fallback
 
-- Contributed to Analyst, an AI data scientist agent in Microsoft 365 Copilot
-- Helped design advanced data analysis workflows on OpenAI o3-mini
-- Enabled iterative reasoning and real-time Python execution for verifiable analysis
-- Supported scenarios including behavior analysis, adoption tracking, and sentiment visualization
+---
 
-#### Software Engineer 2 - Machine Learning  
-Jul 2020 - Aug 2023 | Hyderabad, India
+#### Senior Software Engineer (AI/ML)
+`Sep 2023 – Aug 2025` &nbsp;·&nbsp; Bengaluru, India
 
-- Team: Access under Microsoft Digital
-- Project reference: [Inside Track - Creating the digital workplace at Microsoft](https://www.microsoft.com/insidetrack/blog/creating-the-digital-workplace-at-microsoft/)
+**Analyst Agent — AI Data Scientist in Microsoft 365 Copilot**
 
-#### Software Engineer  
-Aug 2019 - Jun 2020 | Hyderabad, India
+- Co-built a first-party agent powered by **OpenAI o3-mini** that acts as an embedded data scientist
+- Combines chain-of-thought reasoning with **live Python code execution** for transparent, verifiable analysis
+- Delivers insights in minutes across: customer behavior, adoption tracking, product sentiment
 
-- Microsoft Digital / Access Team
+---
 
-### Scientific Games (2 years 6 months)
+#### Software Engineer 2 — Machine Learning
+`Jul 2020 – Aug 2023` &nbsp;·&nbsp; Hyderabad, India
 
-#### Senior Software Engineer I | NLP  
-Feb 2018 - Oct 2018 | Bengaluru, India
+Microsoft Digital / Access Team &nbsp;·&nbsp; [Project reference](https://www.microsoft.com/insidetrack/blog/creating-the-digital-workplace-at-microsoft/)
 
-#### Software Engineer  
-May 2016 - Jan 2018 | Bengaluru, India
+---
 
-- Built and evolved next-generation supply-chain software for lottery systems
-- Stack: C#, ASP.NET Web API, JavaScript, AngularJS, Kendo UI, SSRS, SQL Server
-- Designed and enhanced NLP using Stanford NLP parser to convert user questions into SQL queries
-- Worked across architecture, module development, production support, and mentoring
-- Built localization-ready SSRS deployment patterns for multiple jurisdictions
-- Supported product rollouts to customers including NCEL, Delaware, Georgia, Maryland, and Illinois
+#### Software Engineer
+`Aug 2019 – Jun 2020` &nbsp;·&nbsp; Hyderabad, India
 
-### Hexagon AB (2 years 7 months)
+Microsoft Digital / Access Team
 
-#### Senior Software Analyst  
-Oct 2015 - Apr 2016 | Hyderabad, India
+---
 
-- Worked in Hexagon Safety and Infrastructure on US public safety systems
-- Developed and supported systems for police and fire department operations
+### 🏢 Scientific Games &nbsp;–&nbsp; 2 yrs 6 mos
+
+#### Senior Software Engineer I | NLP &nbsp;·&nbsp; `Feb 2018 – Oct 2018`
+#### Software Engineer &nbsp;·&nbsp; `May 2016 – Jan 2018`
+Bengaluru, India
+
+**Product: ScitrakUltra** — supply-chain automation for lottery game inventory
+
+- Built NLP module using **Stanford NLP parser** to convert natural language to SQL queries
+- Developed full-stack web app: C#, ASP.NET Web API, AngularJS, Kendo UI, SSRS, SQL Server
+- Created generic localization framework for multi-jurisdiction US deployments
+- Shipped to clients: NCEL, Delaware, Georgia, Maryland, Illinois
+- Mentored junior engineers; led production go-live support
+
+---
+
+### 🏢 Hexagon AB &nbsp;–&nbsp; 2 yrs 7 mos
+
+#### Senior Software Analyst &nbsp;·&nbsp; `Oct 2015 – Apr 2016`
+#### Software Analyst &nbsp;·&nbsp; `Oct 2013 – Sep 2015`
+Hyderabad, India
+
+**Hexagon Safety & Infrastructure — US Public Safety Systems**
+
+- Built services for police and fire department operations across US counties
 - Stack: C#.NET, C++, COM, SQL Server 2012, Oracle
-- Contributed across requirement gathering, design, development, testing, bug fixing, and production support
+- Products: In-Pursuit RMS / WebRMS, I-LEADS, I-CAD
 
-#### Software Analyst  
-Oct 2013 - Sep 2015 | Hyderabad, India
+---
 
-### CSIR - National Aerospace Laboratories (NAL)
+### 🏢 CSIR – National Aerospace Laboratories (NAL)
 
-#### Research Intern  
-Dec 2012 - Jul 2013 | Bengaluru, India
+#### Research Intern &nbsp;·&nbsp; `Dec 2012 – Jul 2013` &nbsp;·&nbsp; Bengaluru, India
 
-- Final year major project at NITK Surathkal
-- CGPA obtained: 10/10
+- Final-year project at NITK Surathkal — **CGPA: 10/10**
+- Published 2 papers at ICIUS 2013
+
+---
 
 ## Publications
 
-- Vision based altitude control and trajectory following quadrotor using position feedback.
-- Vision based autonomous UGV navigation control using bird's eye view.
+1. **Vision-based altitude control and trajectory following quadrotor using position feedback** — ICIUS-2013-095
+2. **Vision-based autonomous UGV navigation control using bird's eye view** — ICIUS-2013-093
+
+---
 
 ## Certifications
 
-- Microsoft Certified: Azure AI Fundamentals
-- Copilot for M365 Achiever Badge - Fundamental
-- Microsoft Certified: Azure Fundamentals
-- What Is Generative AI?
-- MTA: Software Development Fundamentals - Certified 2020
+| Certification | Issuer |
+|---|---|
+| Azure AI Fundamentals | Microsoft |
+| Azure Fundamentals | Microsoft |
+| Copilot for M365 Achiever Badge – Fundamental | Microsoft |
+| What Is Generative AI? | — |
+| Software Development Fundamentals | MTA, 2020 |
 
-## Honors and Awards
+---
 
-- 1st place Grand Prize Winner in Microsoft's Global Hackathon
-- Air Marshal Subrato Mukerjee Memorial Year Celebrations - Quiz Competition
+## Honors & Awards
+
+- **1st Place** — Grand Prize Winner, Microsoft Global Hackathon
+- Air Marshal Subrato Mukerjee Memorial Year Celebrations — Quiz Competition
 - High Altitude Trekking Programme
 
-## Languages
-
-- English (Full Professional)
-- Hindi (Professional Working)
-- Kannada (Elementary)
+---
 
 ## Education
 
-- National Institute of Technology Karnataka  
-Engineering, Mathematics and Computer Science (2013)
-- Kendriya Vidyalaya  
-10th and 12th, Mathematics and Computer Science
-- Startup School Online (Y Combinator)  
-How to Start a Company (Nov 2023 - Dec 2023)
+| Institution | Program | Year |
+|---|---|---|
+| National Institute of Technology Karnataka (NITK Surathkal) | B.Tech — Mathematics & Computer Science | 2013 |
+| Kendriya Vidyalaya | 10th & 12th — Mathematics & Computer Science | — |
+| Y Combinator Startup School Online | How to Start a Company | Nov–Dec 2023 |
+
+---
+
+## Languages
+
+| Language | Proficiency |
+|---|---|
+| English | Full Professional |
+| Hindi | Professional Working |
+| Kannada | Elementary |
